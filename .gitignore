@@ -1,0 +1,5 @@
+# El archivo de datos crudo no se sube por confidencialidad
+data/raw/
+*.xlsx
+__pycache__/
+*.pyc
